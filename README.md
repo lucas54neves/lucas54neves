@@ -4,7 +4,7 @@
 
 - 🚀 I’m currently working as a Back-end Software Developer at [@Ambar](https://ambar.tech/).
 - 📚 I'm currently a Computer Science degree student at [@UFLA](https://ufla.br/).
-- 💻 I have experience with Node.js, Typescript, Python, TypeORM, Prisma and **more**.
+- 💻 I have experience with Python, Typescript, Solidity, PostgreSQL and **more**.
 
 <details>
   <summary>:zap: GitHub Stats</summary>
