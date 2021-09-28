@@ -1,6 +1,6 @@
 ### Hello World, I'm Lucas Neves! 👋
 
-#### I'm a back-end developer passionate about security, blockchain and automatization.
+#### I'm a back-end developer passionate about data science, blockchain, security and automatization.
 
 - 🚀 I’m currently working as a Back-end Software Developer at [@Ambar](https://ambar.tech/).
 - 📚 I'm currently a Computer Science degree student at [@UFLA](https://ufla.br/).
