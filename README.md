@@ -3,7 +3,7 @@
 #### I'm a back-end developer and data science student passionate about data science, artificial intelligence, blockchain, natural language processing, security and automatization.
 
 - 🚀 I’m currently working as a Back-end Software Developer at [@Ambar](https://ambar.tech/).
-- 📚 I'm currently a Computer Science degree student at [@UFLA](https://ufla.br/).
+- 📚 I'm currently a Computer Science degree student at [@UFLA](https://ufla.br/) and studying Data Science at [@Let's Code](https://letscode.com.br/).
 - 💻 I have experience with Python, Typescript, Solidity, PostgreSQL and **more**.
 
 <details>
