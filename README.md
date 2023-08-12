@@ -1,9 +1,10 @@
 ### Hello World, I'm Lucas Neves! 👋
 
-#### I'm a back-end developer and data science student passionate about data science, artificial intelligence, blockchain, natural language processing, security and automatization.
+#### I'm a Full Stack Software Engineer. I am passionate about blockchain, automatization, security and data science.
 
-- 🚀 I’m currently working as a Software Engineer at [@Start](https://stark.money/).
-- 📚 I'm currently a Computer Science degree student at [@UFLA](https://ufla.br/) and studying Data Science at [@Let's Code](https://letscode.com.br/).
+- 💻 I'm CEO at [@Odekode](https://www.odekode.com/).
+- 🚀 I’m currently working as a Software Engineer at [@Aquarela Analytics](https://www.aquare.la/).
+- 📚 I graduated in Computer Science from the [@UFLA](https://ufla.br/).
 - 💻 I have experience with Python, Typescript, Solidity, PostgreSQL and **more**.
 
 <details>
