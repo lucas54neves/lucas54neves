@@ -2,7 +2,6 @@
 
 #### I'm a Full Stack Software Engineer. I am passionate about blockchain, automatization, security and data science.
 
-- 💻 I'm CEO at [@Odekode](https://www.odekode.com/).
 - 🚀 I’m currently working as a Software Engineer at [@Aquarela Analytics](https://www.aquare.la/).
 - 📚 I graduated in Computer Science from the [@UFLA](https://ufla.br/).
 - 💻 I have experience with Python, Typescript, Solidity, PostgreSQL and **more**.
